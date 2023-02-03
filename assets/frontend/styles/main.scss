@@ -1,0 +1,83 @@
+body {
+	// background-color: #E4E6EB;
+	font-family: 'Assistant', sans-serif;
+}
+
+.menu-bar {
+	background-color: #320ac4;
+}
+
+// Navbar
+.navbar-brand {
+	img {
+		max-height: 40px;
+	}
+}
+
+.btn-navbar-right {
+	margin-top: -15px !important;
+	height: 70px;
+	margin-bottom: -8px !important;
+	margin-right: -30px !important;
+	border-radius: 0;
+}
+
+.navbar-light {
+	.navbar-nav {
+		.nav-link {
+			color: white;
+
+			&.active {
+				font-weight: bold;
+				color: white !important;
+			}
+		}
+	}
+}
+
+.btn-login {
+	background-color: rgb(248, 17, 17);
+	color: #fff;
+
+	&:hover {
+		color: #fff;
+		background-color: rgb(46, 49, 56);
+	}
+}
+
+// Header
+
+// Statistik
+.section-profile {
+	.card {
+		border-radius: 10px;
+
+		h3 {
+			margin-top: 10px;
+			margin-left: 12px;
+			margin-bottom: 10px;
+		}
+	}
+
+
+}
+
+.section-services {
+	border-radius: 10px;
+
+	h3 {
+		margin-top: 10px;
+		text-align: center;
+		margin-bottom: 10px;
+	}
+
+}
+
+.footer {
+	background-color: #320ac4;
+	margin-top: 20px;
+	text-align: center;
+	color: white;
+	padding: 20px;
+
+}

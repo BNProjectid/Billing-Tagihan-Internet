@@ -1,0 +1,85 @@
+body {
+	min-height: 100%;
+	font-family: 'Assistant', sans-serif;
+}
+
+.menu-bar {
+	background-color: #320ac4;
+}
+
+.navbar-brand img {
+	max-height: 40px;
+}
+
+.btn-navbar-right {
+	margin-top: -15px !important;
+	height: 70px;
+	margin-bottom: -8px !important;
+	margin-right: -30px !important;
+	border-radius: 0;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: white;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+	font-weight: bold;
+	color: white !important;
+}
+
+.btn-login {
+	background-color: #f81111;
+	color: #fff;
+	height: 100%px;
+	margin-left: 15px;
+}
+
+.btn-login:hover {
+	color: #fff;
+	background-color: #48309c;
+}
+
+.section-profile .card {
+	border-radius: 10px;
+}
+
+.section-profile .card h3 {
+	margin-top: 10px;
+	margin-left: 12px;
+	margin-bottom: 10px;
+}
+
+.section-services {
+	border-radius: 10px;
+}
+
+.section-services h3 {
+	margin-top: 10px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.footer {
+	background-color: #320ac4;
+	margin-top: 20px;
+	text-align: center;
+	color: white;
+	padding: 20px;
+
+}
+
+/* Back Top */
+.backTop {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	display: inline-block;
+	padding: 1em;
+	margin: 1em;
+	background: #E8E8E8;
+	border: 2px solid #2349B8;
+}
+
+
+/*# sourceMappingURL=main.css.map */
