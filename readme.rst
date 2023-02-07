@@ -38,8 +38,6 @@ issues, as well as missing features.
 ************
 Installation
 ************
-# TAMPILAN DASHBOARD
-![This is an image](/ss1.png)
 Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
 of the CodeIgniter User Guide.
 
