@@ -1,4 +1,9 @@
 ###################
+Tampilan Dashboard
+###################
+![This is an image](/ss1)
+
+###################
 What is CodeIgniter
 ###################
 
